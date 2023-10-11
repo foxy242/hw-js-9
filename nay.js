@@ -14,19 +14,13 @@ console.log(nay);
 
 // Створити масив із трьох рядків. Додати до масиву ще одну рядків.
 
-// task 3
+// task 3=====
 
-// const nay3 = [1, 2, 3];
-// const nay4 = 0;
+const nay3 = [1, 2, 3];
 
-// for (nay3 of nay4) {
-//   if (nay3 + nay4) {
-//   console.log(nay4);
-//     break;
-
-//   }
-// }
-
+for (let i = 0; i <= 6; i += nay3){
+  console.log(i);
+}
 
 // Створити скрипт який поверне суму всіх чисел в масиві.
 
@@ -40,7 +34,7 @@ for (let i = 0; i < nay6.length; i += 1) {
 
 // Створити масив з 5-ти чисел. Вивести на екран всі елементи масиву за допомогою циклу for.
 
-// task 5
+// task 5=====
 
 
 const nay5 = ["Georgiy", "Ivanovich", "Tatiana"];
